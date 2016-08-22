@@ -1,0 +1,22 @@
+{
+  "name": "_08_ExpressREST",
+  "version": "0.0.0",
+  "description": "08_ExpressREST",
+  "main": "app.js",
+  "author": {
+    "name": "Rami Sayar",
+    "email": ""
+  },
+  "dependencies": {
+    "client-sessions": "^0.7.0",
+    "cookie-parser": "^1.4.3",
+    "express": "3.4.4",
+    "express-session": "^1.13.0",
+    "jade": "*",
+    "morgan": "^1.7.0",
+    "mysql": "^2.10.2",
+    "readable-stream": "^2.1.4",
+    "session": "^0.1.0",
+    "stylus": "*"
+  }
+}
